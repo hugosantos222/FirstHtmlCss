@@ -34,7 +34,7 @@ img {
     height: 100%;
     width: 100%;
     margin: auto;
-    background: url(/image/cover20.jpg.jpg)no-repeat 50% 50%;
+    background: url(/photographytest/image/cover20.jpg.jpg)no-repeat 50% 50%;
     background-size: cover;
     display: table;
     top:0;
@@ -112,7 +112,7 @@ nav:hover ul{
 #menu-icon{
     width: 30px;
     height: 26px;
-    background: url(/image/nav-icon.png) center;
+    background: url(/photographytest/image/nav-icon.png) center;
     display: inline-block;
     margin: 50px 0 0 50px;
 }
